@@ -184,18 +184,30 @@ main .cards ul li a img {
     }
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b45a32203caf7f3139e2cf512a0b015190fef4ce
 @media (max-width: 375px) {
     main .cards ul {
         display: flex;
         flex-wrap: wrap;
+<<<<<<< HEAD
         gap: 10px;
         /* espaço entre os cards */
+=======
+        gap: 10px;              /* espaço entre os cards */
+>>>>>>> b45a32203caf7f3139e2cf512a0b015190fef4ce
         justify-content: center;
     }
 
     main .cards ul li {
+<<<<<<< HEAD
         flex: 0 0 calc(50% - 10px);
         /* ocupa metade da largura, descontando o gap */
+=======
+        flex: 0 0 calc(50% - 10px); /* ocupa metade da largura, descontando o gap */
+>>>>>>> b45a32203caf7f3139e2cf512a0b015190fef4ce
         max-width: calc(50% - 10px);
     }
 
@@ -221,4 +233,8 @@ main .cards ul li a img {
     header .header img {
         width: 80px;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b45a32203caf7f3139e2cf512a0b015190fef4ce
